@@ -115,3 +115,8 @@ h3{
 .galeria li:not(:last-of-type){
     margin-bottom: 1rem;
 }
+
+.form-control{
+    padding: 1rem;
+    font-size: 1.6rem;
+}
